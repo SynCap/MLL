@@ -2,7 +2,8 @@
 Most Likely License
 
 The IDEA of this License - brings to the people the most 
-comfort in usage or distribution of the results of intillectual works of any kinds as author wish.
+comfort in usage or distribution of the results of intillectual
+ works of any kinds as author wish.
 
 The main language of this License is Russian. All differencies in understanding or translating 
 have to be resolved in accordance to the value of historic Russian traditions of moral.
