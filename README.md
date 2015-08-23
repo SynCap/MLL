@@ -1,5 +1,4 @@
-# MLL
-Most Likely License
+# MLL - the Most Likely License
 
 The IDEA of this License - brings to the people the most 
 comfort in usage or distribution of the results of intillectual
