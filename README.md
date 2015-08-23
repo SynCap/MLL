@@ -12,7 +12,7 @@ including electronic or imaginary, by the undeniable desire of their creator is 
 gratuitous and uncontrolled use to anyone who wishes to take advantage of it for any purpose,
 except for the purpose of harming others.
 
-# Лицензия MLL - Наиболее приемлемое разрешение - НПР
+# НПР - Наиболее приемлемое разрешение (Лицензия MLL)
 
 Главная ИДЕЯ настоящей Лицензии - удобство использования или распространения 
 результатов интиллектуального труда в любом его виде.
